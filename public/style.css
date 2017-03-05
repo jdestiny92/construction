@@ -1,0 +1,96 @@
+ #header {
+    background-color:  #A19B8F;
+ }
+
+ #links {
+    background-color: #F4EEC3;
+    padding-bottom: 2vh;
+    padding-top: 2vh;
+ }
+
+ #contact {
+    background-color: #A19B8F
+ }
+
+ #copyright {
+    background-color: #111111;
+ }
+
+ a {
+      color: #1E1D94;
+      font-weight: bold;
+    
+ }
+
+ a:hover {
+        text-decoration: none;
+ }
+
+#logo {
+      width: 275px;
+      height: 80px;
+      margin: auto;
+}
+
+#marker {
+      margin-top: 4vh;
+}
+
+.cream {
+    color: #F4EEC3;
+}
+
+.white {
+    color: white;
+}
+
+.blue {
+     color: #1E1D94;
+}
+
+.creamBackground {
+      background-color: #F4EEC3;
+}
+
+* {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.together {
+    display: inline;
+}
+
+#clock {
+      margin-top: 4vh;
+}
+
+
+#hamburger {
+  background-color: #111111;
+  margin-top: 4vh;
+
+}
+
+#phone {
+  margin-top: 4vh;
+}
+
+#myNavbar {
+    margin: 0;
+    padding: 0;
+}
+
+#copyrightText {
+    color: white;
+}
+
+#copyright {
+     padding-bottom: 4vh;
+     padding-top: 4vh;
+}
+
+#mainPicture {
+     margin: 0;
+    padding: 0;
+}
